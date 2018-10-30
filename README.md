@@ -4,5 +4,5 @@
 
 Choose one of the below introductions to get started:
 
-- [Local installation with Anaconda](https://github.com/IBMCodeLondon/jupyter-notebooks-101/blob/master/watson-studio.md)
-- [Create an IBM Watson Studio account to run in the Cloud]()
+- [Local installation with Anaconda]()
+- [Create an IBM Watson Studio account to run in the Cloud](https://github.com/IBMCodeLondon/jupyter-notebooks-101/blob/master/watson-studio.md)
